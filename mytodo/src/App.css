@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-flow: column nowrap;
+  margin-top: 50px;
+}
+
+.App .title {
+  font-size: 5rem;
+  padding: 0px 20px 0px 20px;
+  background-color: rgb(83, 172, 117);
+  border-radius: 13px;
+  border: 2px solid black;
+  align-self: center;
+  color: #1b1b1b;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
